@@ -1,4 +1,4 @@
-#prime number program
+#prime programming
 num=11
 count=0
 for fa in range(1,num+1):
